@@ -26,7 +26,7 @@ export function Footer() {
         <a href="#/" onClick={(e) => { e.preventDefault(); alert('Hau hau! 🐶'); }}>Kontakt: zaszczekaj głośno</a>
       </p>
       <p class="muted">Działa na karmie i dobrym humorze 🦴</p>
-      <p><strong>Główna Szefowa Wszystkich Piesków i twórczyni serwisu: Basia Dróżdzel</strong> 🐾 (psy merdają jej ogonami z szacunku)</p>
+      <p><strong>Autorka: Basia Dróżdzel.</strong> Nagroda: góra kości 🦴</p>
     </footer>
   );
 }
