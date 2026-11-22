@@ -1,0 +1,14 @@
+{
+  "name": "swiatowa-siec-hau",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Światowa Sieć Hau (PsiuWuWu) — mockupy portalu z psimi aplikacjami",
+  "type": "module",
+  "scripts": {
+    "dev": "node build.mjs --watch & node server.js",
+    "build": "node build.mjs",
+    "start": "node server.js"
+  },
+  "dependencies": { "preact": "^11.2.0" },
+  "devDependencies": { "esbuild": "^0.28.2" }
+}

@@ -1,0 +1,434 @@
+[
+ {
+  "id": "akita",
+  "nazwa": "Akita",
+  "dog": "akita",
+  "wiki": "Akita_inu",
+  "wielkosc": "duży",
+  "charakter": "lojalny i odważny",
+  "opis": "Wielki, puszysty pies z Japonii. Jest bardzo wierny swojej rodzinie."
+ },
+ {
+  "id": "basset",
+  "nazwa": "Basset hound",
+  "dog": "hound/basset",
+  "wiki": "Basset_hound",
+  "wielkosc": "średni",
+  "charakter": "spokojny i uparty",
+  "opis": "Pies z bardzo długimi uszami i smutnymi oczami. Uwielbia węszyć."
+ },
+ {
+  "id": "beagle",
+  "nazwa": "Beagle",
+  "dog": "beagle",
+  "wiki": "Beagle_(rasa_psa)",
+  "wielkosc": "mały",
+  "charakter": "wesoły i ciekawski",
+  "opis": "Wesoły łowca zapachów. Nos ma tak dobry, że znajdzie każdą kanapkę."
+ },
+ {
+  "id": "bernardyn",
+  "nazwa": "Bernardyn",
+  "dog": "stbernard",
+  "wiki": "Bernardyn_(rasa_psa)",
+  "wielkosc": "olbrzym",
+  "charakter": "łagodny i cierpliwy",
+  "opis": "Ogromny, łagodny pies z gór. Kiedyś ratował ludzi zasypanych śniegiem."
+ },
+ {
+  "id": "border-collie",
+  "nazwa": "Border collie",
+  "dog": "collie/border",
+  "wiki": "Border_collie",
+  "wielkosc": "średni",
+  "charakter": "bardzo mądry i energiczny",
+  "opis": "Najmądrzejszy pies pasterski. Uwielbia biegać i uczyć się sztuczek."
+ },
+ {
+  "id": "boxer",
+  "nazwa": "Bokser",
+  "dog": "boxer",
+  "wiki": "Bokser_(rasa_psa)",
+  "wielkosc": "duży",
+  "charakter": "skoczny i zabawowy",
+  "opis": "Silny i wesoły pies, który skacze z radości jak na sprężynie."
+ },
+ {
+  "id": "buldog-francuski",
+  "nazwa": "Buldog francuski",
+  "dog": "bulldog/french",
+  "wiki": "Buldog_francuski",
+  "wielkosc": "mały",
+  "charakter": "wesoły i towarzyski",
+  "opis": "Mały pies z wielkimi uszami jak u nietoperza. Świetny kanapowy kolega."
+ },
+ {
+  "id": "buldog-angielski",
+  "nazwa": "Buldog angielski",
+  "dog": "bulldog/english",
+  "wiki": "Buldog_angielski",
+  "wielkosc": "średni",
+  "charakter": "spokojny i uparty",
+  "opis": "Pies o pomarszczonej buzi. Lubi drzemki i spacery bez pośpiechu."
+ },
+ {
+  "id": "bulterier",
+  "nazwa": "Bulterier",
+  "dog": "bullterrier/staffordshire",
+  "wiki": "Staffordshire_bull_terrier",
+  "wielkosc": "średni",
+  "charakter": "silny i towarzyski",
+  "opis": "Silny pies o jajowatej głowie. Kocha ludzi i zabawę."
+ },
+ {
+  "id": "cavalier",
+  "nazwa": "Cavalier King Charles spaniel",
+  "dog": "spaniel/blenheim",
+  "wiki": "Cavalier_King_Charles_spaniel",
+  "wielkosc": "mały",
+  "charakter": "czuły i przyjazny",
+  "opis": "Mały spaniel z długimi, jedwabistymi uszami. Kocha się przytulać."
+ },
+ {
+  "id": "chihuahua",
+  "nazwa": "Chihuahua",
+  "dog": "chihuahua",
+  "wiki": "Chihuahua",
+  "wielkosc": "maleńki",
+  "charakter": "odważny i żywy",
+  "opis": "Najmniejszy pies świata, ale z wielkim charakterem i donośnym szczekiem."
+ },
+ {
+  "id": "chow-chow",
+  "nazwa": "Chow chow",
+  "dog": "chow",
+  "wiki": "Chow_chow",
+  "wielkosc": "średni",
+  "charakter": "dumny i spokojny",
+  "opis": "Puszysty pies z niebieskim językiem, wygląda jak miś."
+ },
+ {
+  "id": "cocker",
+  "nazwa": "Cocker spaniel",
+  "dog": "spaniel/cocker",
+  "wiki": "Cocker_spaniel_angielski",
+  "wielkosc": "średni",
+  "charakter": "wesoły i łagodny",
+  "opis": "Pies z długimi, kręconymi uszami. Merda ogonem bez przerwy."
+ },
+ {
+  "id": "corgi",
+  "nazwa": "Corgi",
+  "dog": "corgi/cardigan",
+  "wiki": "Welsh_corgi_cardigan",
+  "wielkosc": "mały",
+  "charakter": "rezolutny i wesoły",
+  "opis": "Pies na krótkich łapkach i z dużymi uszami. Bardzo lubi pasienie owiec."
+ },
+ {
+  "id": "dalmatynczyk",
+  "nazwa": "Dalmatyńczyk",
+  "dog": "dalmatian",
+  "wiki": "Dalmatyńczyk",
+  "wielkosc": "duży",
+  "charakter": "energiczny i przyjazny",
+  "opis": "Biały pies w czarne kropki. Uwielbia długie biegi."
+ },
+ {
+  "id": "doberman",
+  "nazwa": "Doberman",
+  "dog": "doberman",
+  "wiki": "Doberman_(rasa_psa)",
+  "wielkosc": "duży",
+  "charakter": "czujny i oddany",
+  "opis": "Smukły, szybki i mądry pies. Świetnie pilnuje domu."
+ },
+ {
+  "id": "jamnik",
+  "nazwa": "Jamnik",
+  "dog": "dachshund",
+  "wiki": "Jamnik_(rasa_psa)",
+  "wielkosc": "mały",
+  "charakter": "sprytny i odważny",
+  "opis": "Pies z długim ciałem i krótkimi łapkami, stworzony do wchodzenia do nor."
+ },
+ {
+  "id": "golden",
+  "nazwa": "Golden retriever",
+  "dog": "retriever/golden",
+  "wiki": "Golden_retriever",
+  "wielkosc": "duży",
+  "charakter": "przyjazny i cierpliwy",
+  "opis": "Złoty, puszysty przyjaciel wszystkich. Uwielbia aportować piłkę."
+ },
+ {
+  "id": "husky",
+  "nazwa": "Husky",
+  "dog": "husky",
+  "wiki": "Husky_syberyjski",
+  "wielkosc": "duży",
+  "charakter": "towarzyski i wytrzymały",
+  "opis": "Pies zaprzęgowy z błękitnymi oczami. Kocha śnieg i bieganie."
+ },
+ {
+  "id": "jack-russell",
+  "nazwa": "Jack Russell terier",
+  "dog": "terrier/russell",
+  "wiki": "Jack_Russell_terrier",
+  "wielkosc": "mały",
+  "charakter": "żywy i śmiały",
+  "opis": "Mały psiak pełen energii, który nigdy się nie męczy."
+ },
+ {
+  "id": "labrador",
+  "nazwa": "Labrador",
+  "dog": "labrador",
+  "wiki": "Labrador_retriever",
+  "wielkosc": "duży",
+  "charakter": "łagodny i chętny do zabawy",
+  "opis": "Jeden z najpopularniejszych psów. Uwielbia wodę i jedzenie."
+ },
+ {
+  "id": "lhasa",
+  "nazwa": "Lhasa apso",
+  "dog": "lhasa",
+  "wiki": "Lhasa_apso",
+  "wielkosc": "mały",
+  "charakter": "czujny i pewny siebie",
+  "opis": "Mały pies z długą grzywą, który dawniej pilnował klasztorów w Tybecie."
+ },
+ {
+  "id": "maltanczyk",
+  "nazwa": "Maltańczyk",
+  "dog": "maltese",
+  "wiki": "Maltańczyk_(rasa_psa)",
+  "wielkosc": "maleńki",
+  "charakter": "czuły i wesoły",
+  "opis": "Maleńki, biały piesek z długą, jedwabistą sierścią."
+ },
+ {
+  "id": "mops",
+  "nazwa": "Mops",
+  "dog": "pug",
+  "wiki": "Mops_(rasa_psa)",
+  "wielkosc": "mały",
+  "charakter": "pogodny i śmieszny",
+  "opis": "Pies ze zmarszczoną buzią, który chrapie jak mały traktor."
+ },
+ {
+  "id": "mieszaniec",
+  "nazwa": "Kundelek / mieszaniec",
+  "dog": "mix",
+  "wiki": "Kundel",
+  "wielkosc": "różny",
+  "charakter": "jedyny w swoim rodzaju",
+  "opis": "Pies, który ma w sobie trochę z różnych ras. Każdy jest wyjątkowy!"
+ },
+ {
+  "id": "owczarek-niemiecki",
+  "nazwa": "Owczarek niemiecki",
+  "dog": "german/shepherd",
+  "wiki": "Owczarek_niemiecki",
+  "wielkosc": "duży",
+  "charakter": "mądry i odważny",
+  "opis": "Pies pracujący: pomaga policji i ratownikom. Bardzo uczy się szybko."
+ },
+ {
+  "id": "owczarek-szetlandzki",
+  "nazwa": "Owczarek szetlandzki",
+  "dog": "sheepdog/shetland",
+  "wiki": "Owczarek_szetlandzki",
+  "wielkosc": "mały",
+  "charakter": "łagodny i inteligentny",
+  "opis": "Wygląda jak miniaturowy collie. Bardzo mądry i posłuszny."
+ },
+ {
+  "id": "owczarek-podhalanski",
+  "nazwa": "Owczarek podhalański",
+  "dog": "ovcharka/caucasian",
+  "wiki": "Owczarek_podhalański",
+  "wielkosc": "duży",
+  "charakter": "dzielny i czujny",
+  "opis": "Wielki biały pies z gór, który pilnuje owiec."
+ },
+ {
+  "id": "papillon",
+  "nazwa": "Papillon",
+  "dog": "papillon",
+  "wiki": "Papillon_(rasa_psa)",
+  "wielkosc": "maleńki",
+  "charakter": "wesoły i bystry",
+  "opis": "Piesek z uszami jak skrzydła motyla."
+ },
+ {
+  "id": "pekinczyk",
+  "nazwa": "Pekińczyk",
+  "dog": "pekinese",
+  "wiki": "Pekińczyk",
+  "wielkosc": "maleńki",
+  "charakter": "dumny i niezależny",
+  "opis": "Mały pies z lwią grzywą, dawniej mieszkał w pałacach chińskich cesarzy."
+ },
+ {
+  "id": "pomeranian",
+  "nazwa": "Szpic miniaturowy",
+  "dog": "pomeranian",
+  "wiki": "Szpic_miniaturowy",
+  "wielkosc": "maleńki",
+  "charakter": "żywy i gadatliwy",
+  "opis": "Kulka puszystej sierści z lisim pyszczkiem."
+ },
+ {
+  "id": "pudel",
+  "nazwa": "Pudel",
+  "dog": "poodle/standard",
+  "wiki": "Pudel",
+  "wielkosc": "średni",
+  "charakter": "mądry i zwinny",
+  "opis": "Kędzierzawy i bardzo mądry pies. Świetnie uczy się sztuczek."
+ },
+ {
+  "id": "rottweiler",
+  "nazwa": "Rottweiler",
+  "dog": "rottweiler",
+  "wiki": "Rottweiler",
+  "wielkosc": "duży",
+  "charakter": "silny i lojalny",
+  "opis": "Mocny pies, który bardzo kocha swoją rodzinę."
+ },
+ {
+  "id": "samoyed",
+  "nazwa": "Samoyed",
+  "dog": "samoyed",
+  "wiki": "Samojed_(rasa_psa)",
+  "wielkosc": "duży",
+  "charakter": "uśmiechnięty i miły",
+  "opis": "Biały puchaty pies, który zawsze wygląda, jakby się uśmiechał."
+ },
+ {
+  "id": "sznaucer",
+  "nazwa": "Sznaucer miniaturowy",
+  "dog": "schnauzer/miniature",
+  "wiki": "Sznaucer_miniaturowy",
+  "wielkosc": "mały",
+  "charakter": "żywy i czujny",
+  "opis": "Pies z zabawnymi wąsami i brwiami."
+ },
+ {
+  "id": "shiba",
+  "nazwa": "Shiba inu",
+  "dog": "shiba",
+  "wiki": "Shiba_inu",
+  "wielkosc": "średni",
+  "charakter": "niezależny i wierny",
+  "opis": "Japoński pies o lisiej buzi. Bywa uparty jak osioł."
+ },
+ {
+  "id": "shih-tzu",
+  "nazwa": "Shih tzu",
+  "dog": "shihtzu",
+  "wiki": "Shih_tzu",
+  "wielkosc": "mały",
+  "charakter": "przyjazny i pogodny",
+  "opis": "Mały pies z długą grzywką i opadającymi uszami. Lubi towarzystwo."
+ },
+ {
+  "id": "terier-yorkshire",
+  "nazwa": "Yorkshire terier",
+  "dog": "terrier/yorkshire",
+  "wiki": "Yorkshire_terrier",
+  "wielkosc": "maleńki",
+  "charakter": "śmiały i wesoły",
+  "opis": "Maleńki psiak z długą, jedwabistą sierścią i wielką odwagą."
+ },
+ {
+  "id": "wyzel",
+  "nazwa": "Wyżeł weimarski",
+  "dog": "weimaraner",
+  "wiki": "Weimaraner",
+  "wielkosc": "duży",
+  "charakter": "szybki i wytrwały",
+  "opis": "Srebrnoszary pies o jasnych oczach. Świetnie biega."
+ },
+ {
+  "id": "whippet",
+  "nazwa": "Whippet",
+  "dog": "whippet",
+  "wiki": "Whippet",
+  "wielkosc": "średni",
+  "charakter": "łagodny i szybki",
+  "opis": "Smukły pies, który biega prawie tak szybko jak gepard."
+ },
+ {
+  "id": "pitbull",
+  "nazwa": "Amerykański staffordshire terier",
+  "dog": "pitbull",
+  "wiki": "Amerykański_staffordshire_terier",
+  "wielkosc": "średni",
+  "charakter": "towarzyski i silny",
+  "opis": "Mocny pies, który uwielbia przytulanie i zabawę."
+ },
+ {
+  "id": "wilczarz-irlandzki",
+  "nazwa": "Wilczarz irlandzki",
+  "dog": "wolfhound/irish",
+  "wiki": "Wilczarz_irlandzki",
+  "wielkosc": "olbrzym",
+  "charakter": "łagodny olbrzym",
+  "opis": "Najwyższy pies świata. Jest bardzo łagodny."
+ },
+ {
+  "id": "yorkie-biewer",
+  "nazwa": "Szpic japoński",
+  "dog": "spitz/japanese",
+  "wiki": "Szpic_japoński",
+  "wielkosc": "mały",
+  "charakter": "wesoły i czysty",
+  "opis": "Biały jak śnieg i puszysty jak chmurka."
+ },
+ {
+  "id": "pointer",
+  "nazwa": "Wyżeł niemiecki krótkowłosy",
+  "dog": "pointer/german",
+  "wiki": "Wyżeł_niemiecki_krótkowłosy",
+  "wielkosc": "duży",
+  "charakter": "aktywny i bystry",
+  "opis": "Pies myśliwski o czułym nosie i długich uszach."
+ },
+ {
+  "id": "bernenski",
+  "nazwa": "Berneński pies pasterski",
+  "dog": "mountain/bernese",
+  "wiki": "Berneński_pies_pasterski",
+  "wielkosc": "duży",
+  "charakter": "spokojny i serdeczny",
+  "opis": "Trójkolorowy, puszysty olbrzym ze Szwajcarii."
+ },
+ {
+  "id": "szarpej",
+  "nazwa": "Shar pei",
+  "dog": "sharpei",
+  "wiki": "Shar_pei",
+  "wielkosc": "średni",
+  "charakter": "spokojny i lojalny",
+  "opis": "Pies z mnóstwem fałdek skóry, jak w za dużym swetrze."
+ },
+ {
+  "id": "gonczy",
+  "nazwa": "Gończy polski",
+  "dog": "hound/walker",
+  "wiki": "Gończy_polski",
+  "wielkosc": "średni",
+  "charakter": "wytrwały i głośny",
+  "opis": "Pies, który ma doskonały węch i śpiewa przy tropieniu."
+ },
+ {
+  "id": "wyzel-wegierski",
+  "nazwa": "Wyżeł węgierski",
+  "dog": "vizsla",
+  "wiki": "Wyżeł_węgierski_krótkowłosy",
+  "wielkosc": "duży",
+  "charakter": "czuły i energiczny",
+  "opis": "Rudy, błyszczący pies. Lubi być blisko swojego człowieka."
+ }
+]
